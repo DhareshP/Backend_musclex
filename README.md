@@ -1,5 +1,5 @@
-dto - data transfer object,design pattern used to transfer data between different layers of an application,
-      especially between the client (e.g., front-end) and server (e.g., back-end)
+dto - data transfer object,  used to transfer data between different layers of an application,
+      especially between the frontend and backend, client and server, just plain data
 
       added: org,glassfish.jaxb : for java version 9 and higher
               java.xml.bind : for DataTypeConverter
